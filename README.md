@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+notes
+
+rails g scaffold Comment body:string author:string post:references
